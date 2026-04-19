@@ -14,7 +14,7 @@
 - 🤖 Built **AI-powered lead processing system** reducing manual effort by **~80%**  
 - 🔄 Developed **15+ cron jobs** for large-scale data integrations (Callrail, Apexchat, Google search console, Google Ads, Facebook, etc.)  
 - 📊 Built real-time dashboards for **80+ clients**  
-- 🧠 Strong in **system design, API development, and performance optimization**
+- 🧠 Strong in **API development, and performance optimization**
 
 ---
 
