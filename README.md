@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Imran Bagwan</h1>
-<h3 align="center">A passionate developer learning new technologies</h3>
+<h3 align="center">A passionate Software developer learning new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranbagwan8080&label=Profile%20views&color=0e75b6&style=flat" alt="imranbagwan8080" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/imranbagwan8080](https://github.com/imranbagwan8080)
 
-- 💬 Ask me about **Core Java,ReactJS,Springboot,MySQL**
+- 💬 Ask me about **NextJs,ReactJS,NodeJs,MySQL,Javascript,HTML5,CSS3,SQL,Redux,TailwindCSS**
 
 - 📫 How to reach me **imranbagwan7991@gmail.com**
 
