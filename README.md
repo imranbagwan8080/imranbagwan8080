@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/imranbagwan8080](https://github.com/imranbagwan8080)
 
-- 💬 Ask me about **NextJs,ReactJS,NodeJs,MySQL,Javascript,HTML5,CSS3,SQL,Redux,TailwindCSS**
+- 💬 Ask me about **NextJs, ReactJS, NodeJs, MySQL, Javascript, HTML5, CSS3, SQL, Redux Toolkit, TailwindCSS**
 
 - 📫 How to reach me **imranbagwan7991@gmail.com**
 
