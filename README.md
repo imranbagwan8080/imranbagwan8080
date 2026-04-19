@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **imranbagwan7991@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13EdefalBBbHZIbGIn1tf70pCZRaFSePX/view?usp=drive_link](https://drive.google.com/file/d/13EdefalBBbHZIbGIn1tf70pCZRaFSePX/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ANYhqew9gkJ_rNg8R4BSHA42-OOMwRYU/view?usp=sharing](https://drive.google.com/file/d/1ANYhqew9gkJ_rNg8R4BSHA42-OOMwRYU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
