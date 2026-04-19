@@ -1,27 +1,57 @@
 <h1 align="center">Hi 👋, I'm Imran Bagwan</h1>
-<h3 align="center">A passionate Software developer learning new technologies</h3>
+<h3 align="center">Full Stack Developer | Next.js | React | Node.js | Javascript | HTLM5 | CSS | Mysql | Prisma ORM | Tailwind CSS </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranbagwan8080&label=Profile%20views&color=0e75b6&style=flat" alt="imranbagwan8080" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/imranbagwan8080](https://github.com/imranbagwan8080)
-
-- 💬 Ask me about **NextJs, ReactJS, NodeJs, MySQL, Javascript, HTML5, CSS3, SQL, Redux Toolkit, TailwindCSS**
-
-- 📫 How to reach me **imranbagwan7991@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ANYhqew9gkJ_rNg8R4BSHA42-OOMwRYU/view?usp=sharing](https://drive.google.com/file/d/1ANYhqew9gkJ_rNg8R4BSHA42-OOMwRYU/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imranbagwan8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imranbagwan8080" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/imran-bagwan-169794216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imran-bagwan-169794216/https://www.linkedin.com/in/imran-bagwan-169794216/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/imran.bagwan.3382118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/imran.bagwan.3382118" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_imran8080_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_imran8080_/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/imranbagwan7991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/imranbagwan7991" height="30" width="40" /></a>
-<a href="https://leetcode.com/imran8080/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/imran8080/" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=imranbagwan8080&label=Profile%20views&color=0e75b6&style=flat" alt="imranbagwan8080" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranbagwan8080&show_icons=true&locale=en&layout=compact" alt="imranbagwan8080" /></p>
+### 🚀 About Me
+
+- 💻 Full Stack Developer with **2+ years of experience** building production-grade SaaS platforms  
+- ⚡ Specialized in **Next.js, React.js, Node.js, TypeScript**  
+- 🤖 Built **AI-powered lead processing system** reducing manual effort by **~80%**  
+- 🔄 Developed **15+ cron jobs** for large-scale data integrations (Callrail, Apexchat, Google search console, Google Ads, Facebook, etc.)  
+- 📊 Built real-time dashboards for **80+ clients**  
+- 🧠 Strong in **system design, API development, and performance optimization**
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React.js, Redux Toolkit, Tailwind CSS  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MySQL, Prisma ORM  
+- **Cloud & Tools:** AWS (EC2, S3), Docker, Git, Postman, Claude AI, Cursor  
+- **Other:** API Integrations, Cron Jobs, AI (OpenAI, Speech-to-Text)
+
+---
+
+### 📂 Projects
+
+#### 🔹 AI-Based Lead Processing System
+- Automated analysis of thousands of calls using AI  
+- Generated lead quality, intent, and confidence score  
+- Reduced manual effort by **~80%**
+
+#### 🔹 Marketing SaaS Platform (80+ Clients)
+- Built full-stack features for lead tracking & analytics  
+- Integrated multiple platforms (Google Ads, Facebook, CRM tools)  
+- Developed scalable APIs and data pipelines  
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/imran-bagwan-169794216/  
+- 💻 GitHub: https://github.com/imranbagwan8080  
+- 📧 Email: imranbagwan7991@gmail.com  
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranbagwan8080&show_icons=true&locale=en&layout=compact" alt="imranbagwan8080" />
+</p>
